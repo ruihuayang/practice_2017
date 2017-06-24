@@ -1,7 +1,7 @@
 main()
 {
-	int k = 0; // master add.
+	int k = 0; // work add.
 	int i = 0;
 	int j = 0;
-	return;
+	return;  // work modified.
 }
