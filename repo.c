@@ -1,5 +1,6 @@
 main()
 {
+	int c = 0;
 	int b = 0;
 	int n = 0;
 	int
