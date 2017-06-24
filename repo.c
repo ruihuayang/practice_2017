@@ -1,5 +1,6 @@
 main()
 {
+	int
 	int a = 0;
 	int w = 0;
 	int y = 0;
