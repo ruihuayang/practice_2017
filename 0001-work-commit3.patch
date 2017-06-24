@@ -1,0 +1,23 @@
+From 2d81175e6e3c9b8c90511bf4b6e2735e99e139d6 Mon Sep 17 00:00:00 2001
+From: "ruihua.yang" <dltdxyyrh3180@gmail.com>
+Date: Fri, 23 Jun 2017 23:18:07 -0700
+Subject: [PATCH] work commit3
+
+---
+ repo.c | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/repo.c b/repo.c
+index bf68598..05bc09a 100644
+--- a/repo.c
++++ b/repo.c
+@@ -1,5 +1,6 @@
+ main()
+ {
++	int m = 0;
+ 	int x = 0;
+ 	int k = 0; // work add.
+ 	int i = 0;
+-- 
+1.9.1
+
