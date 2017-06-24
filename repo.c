@@ -1,5 +1,6 @@
 main()
 {
+	int m = 0;
 	int x = 0;
 	int k = 0; // work add.
 	int i = 0;
