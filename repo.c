@@ -3,6 +3,7 @@ main()
 	int bb=0420 //branch
 	int aa=0420 //branch
 	int b = 0;
+	int cc=20190521 //work
 	int n = 0;
 	int
 	int a = 0;
