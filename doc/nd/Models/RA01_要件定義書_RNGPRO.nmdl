@@ -38,6 +38,7 @@
       "Fields": {
         "Name": "機能要件",
         "TBD": false,
+        "Description": "this is range",
         "マイルストーン": "PoC",
         "カテゴリ": "正常系"
       }
