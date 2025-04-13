@@ -128,7 +128,7 @@
       "Fields": {
         "Name": "機能要件",
         "TBD": false,
-        "Description": "これは、Appleです。",
+        "Description": "これは、Appleです。\r\nthis apple",
         "補足事項": "{\"text\":null,\"html\":null,\"xaml\":null}",
         "マイルストーン": "PoC",
         "カテゴリ": "準正常系",
