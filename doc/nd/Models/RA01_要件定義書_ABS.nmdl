@@ -128,9 +128,10 @@
       "Fields": {
         "Name": "機能要件",
         "TBD": false,
+        "Description": "これは、Appleです。",
         "補足事項": "{\"text\":null,\"html\":null,\"xaml\":null}",
         "マイルストーン": "PoC",
-        "カテゴリ": "正常系",
+        "カテゴリ": "準正常系",
         "要件詳細の参照先（ブック格納先もしくはスクショ貼り付け）": "{\"text\":null,\"html\":null,\"xaml\":null}"
       }
     }
