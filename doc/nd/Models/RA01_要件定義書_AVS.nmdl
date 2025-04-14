@@ -1,0 +1,156 @@
+{
+  "Type": "Model",
+  "TopElementId": "fc0140bf-7a0d-49de-bc6b-bb7f88dac7bc",
+  "SchemaVersion": "13.0",
+  "Entities": [
+    {
+      "Id": "1331d4eb-8978-4665-b240-e7f0653b600e",
+      "EntityType": "Entity",
+      "Name": "機能要件",
+      "MetamodelId": "a6f6c2e2-6865-4c87-996e-0dc20344c359",
+      "Metamodel": "機能要件",
+      "Fields": {
+        "Name": "機能要件",
+        "TBD": false,
+        "マイルストーン": "PoC",
+        "カテゴリ": "正常系"
+      }
+    },
+    {
+      "Id": "26272dc0-ab09-4544-800e-4b318139f60e",
+      "EntityType": "Entity",
+      "Name": "機能要件",
+      "MetamodelId": "a6f6c2e2-6865-4c87-996e-0dc20344c359",
+      "Metamodel": "機能要件",
+      "Fields": {
+        "Name": "機能要件",
+        "TBD": false,
+        "マイルストーン": "PoC",
+        "カテゴリ": "正常系"
+      }
+    },
+    {
+      "Id": "6436da3d-3999-4f6b-b5b9-2a850fb63622",
+      "EntityType": "Entity",
+      "Name": "機能要件",
+      "MetamodelId": "a6f6c2e2-6865-4c87-996e-0dc20344c359",
+      "Metamodel": "機能要件",
+      "Fields": {
+        "Name": "機能要件",
+        "TBD": false,
+        "マイルストーン": "PoC",
+        "カテゴリ": "正常系"
+      }
+    },
+    {
+      "Id": "867fb912-aeee-490b-9bf2-da0e893c077f",
+      "EntityType": "Entity",
+      "Name": "機能要件",
+      "MetamodelId": "a6f6c2e2-6865-4c87-996e-0dc20344c359",
+      "Metamodel": "機能要件",
+      "Fields": {
+        "Name": "機能要件",
+        "TBD": false,
+        "マイルストーン": "PoC",
+        "カテゴリ": "正常系"
+      }
+    },
+    {
+      "Id": "9b05ffe3-2058-4a9e-a5f6-ca42b1754e26",
+      "EntityType": "Entity",
+      "Name": "機能要件",
+      "MetamodelId": "a6f6c2e2-6865-4c87-996e-0dc20344c359",
+      "Metamodel": "機能要件",
+      "Fields": {
+        "Name": "機能要件",
+        "TBD": false,
+        "マイルストーン": "PoC",
+        "カテゴリ": "正常系"
+      }
+    },
+    {
+      "Id": "d24db054-a535-45c5-8092-b33347d31224",
+      "EntityType": "Entity",
+      "Name": "機能要件",
+      "MetamodelId": "a6f6c2e2-6865-4c87-996e-0dc20344c359",
+      "Metamodel": "機能要件",
+      "Fields": {
+        "Name": "機能要件",
+        "TBD": false,
+        "マイルストーン": "PoC",
+        "カテゴリ": "正常系"
+      }
+    },
+    {
+      "Id": "fc0140bf-7a0d-49de-bc6b-bb7f88dac7bc",
+      "EntityType": "Entity",
+      "Name": "RA01_要件定義書_AVS",
+      "MetamodelId": "a4a870eb-7cdc-44f4-8a8f-0b379a6532ec",
+      "Metamodel": "ソフトウェア要件機能グループ",
+      "Fields": {
+        "Name": "RA01_要件定義書_AVS",
+        "承認情報": "{\"text\":\"\\u00A0バージョン\\t承認\\t検討\\t作成\\r\\n1.0\\u00A0\\t2025/**/** □□□□\\u00A0\\t2025/**/** △△△△\\u00A0\\t2025/**/** 〇〇〇〇\\u00A0\\r\\n\\u00A0\\t\\u00A0\\t\\u00A0\\t\\u00A0\\r\\n\\u00A0\",\"html\":\"<html><head></head><body><table style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;border-collapse: collapse;table-layout: fixed;width: 728px;\\\"><tbody><tr><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 129.60000610351562px;background-color: #F4F4F4;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #F4F4F4;\\\">&nbsp;バージョン</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 196.79998779296875px;background-color: #F4F4F4;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #F4F4F4;\\\">承認</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 193.60000610351562px;background-color: #F4F4F4;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #F4F4F4;\\\">検討</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 208px;background-color: #F4F4F4;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #F4F4F4;\\\">作成</span></p></td></tr><tr><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 129.60000610351562px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">1.0&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 196.79998779296875px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">2025/**/** □□□□&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 193.60000610351562px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">2025/**/** △△△△&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 208px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">2025/**/** 〇〇〇〇&nbsp;</span></p></td></tr><tr style=\\\"height: 25.834239959716797px;\\\"><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 129.60000610351562px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 196.79998779296875px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 193.60000610351562px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 208px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td></tr></tbody></table><p style=\\\"margin-top: 0px;margin-bottom: 0px;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;\\\">&nbsp;</span></p></body></html>\",\"xaml\":null}",
+        "改訂履歴": "{\"text\":\"バージョン\\t日付\\t改訂内容\\t担当\\t上位要求ID\\r\\n1.0\\t2025/**/**\\u00A0\\t\\u00A0初版\\t\\u00A0\\t\\u00A0\\r\\n\\u00A0\\t\\u00A0\\t\\u00A0\\t\\u00A0\\t\\u00A0\\r\\n\\u00A0\\t\\u00A0\\t\\u00A0\\t\\u00A0\\t\\u00A0\\r\\n\\r\\n・いつ、どこを変えたかを変更履歴で分かるようにする。（毎回全部見切れないので）。\\r\\n・初回、および、参照仕様書が改版された時には、必ず参照仕様書バージョンを記載する事。\\r\\n\\u3000それ以外の改版タイミングは各設計Grに一任。\\r\\n\\u3000間隔を空けると抜け漏れが生じる恐れがあるので、ある程度細かい方がベター。\\r\\n\\u00A0\",\"html\":\"<html><head></head><body><table style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;border-collapse: collapse;table-layout: fixed;width: 999.9999923706055px;\\\"><tbody><tr><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 128.8000030517578px;background-color: #F4F4F4;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #F4F4F4;\\\">バージョン</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 168.79998779296875px;background-color: #F4F4F4;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #F4F4F4;\\\">日付</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 384px;background-color: #F4F4F4;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #F4F4F4;\\\">改訂内容</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 118.4000015258789px;background-color: #F4F4F4;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #F4F4F4;\\\">担当</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 200px;background-color: #F4F4F4;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #F4F4F4;\\\">上位要求ID</span></p></td></tr><tr style=\\\"height: 21.545207977294922px;\\\"><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 128.8000030517578px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">1.0</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 168.79998779296875px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">2025/**/**&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 384px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: left;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;初版</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 118.4000015258789px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 200px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td></tr><tr><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 128.8000030517578px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 168.79998779296875px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 384px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: left;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 118.4000015258789px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 200px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td></tr><tr><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 128.8000030517578px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 168.79998779296875px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 384px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: left;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 118.4000015258789px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td><td style=\\\"border-left: 1px solid #000000;border-top: 1px solid #000000;border-right: 1px solid #000000;border-bottom: 1px solid #000000;padding: 3px 3px 3px 3px;width: 200px;background-color: #FFFFFF;vertical-align: top;\\\" align=\\\"left\\\" valign=\\\"top\\\"><p style=\\\"margin-top: 0px;margin-bottom: 0px;text-align: center;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;background-color: #FFFFFF;\\\">&nbsp;</span></p></td></tr></tbody></table><p style=\\\"margin-top: 0px;margin-bottom: 0px;\\\"><span style=\\\"font-family: 'Verdana';font-size: 16px;\\\"><br></span><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;\\\">・いつ、どこを変えたかを変更履歴で分かるようにする。（毎回全部見切れないので）。</span></p><p style=\\\"margin-top: 0px;margin-bottom: 0px;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;\\\">・初回、および、参照仕様書が改版された時には、必ず参照仕様書バージョンを記載する事。</span></p><p style=\\\"margin-top: 0px;margin-bottom: 0px;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;\\\">\\u3000それ以外の改版タイミングは各設計Grに一任。</span></p><p style=\\\"margin-top: 0px;margin-bottom: 0px;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;\\\">\\u3000間隔を空けると抜け漏れが生じる恐れがあるので、ある程度細かい方がベター。</span></p><p style=\\\"margin-top: 0px;margin-bottom: 0px;\\\"><span style=\\\"font-family: 'Meiryo UI';font-size: 12px;\\\">&nbsp;</span></p></body></html>\",\"xaml\":null}"
+      }
+    }
+  ],
+  "Relations": [
+    {
+      "Id": "0febad27-fbd3-4624-b78e-f383af12b3e1",
+      "RelationType": "Embed",
+      "MetamodelId": "2362584d-ee8e-46df-b219-6fba9926cb43",
+      "Metamodel": "ソフトウェア要件定義の所有",
+      "SourceId": "fc0140bf-7a0d-49de-bc6b-bb7f88dac7bc",
+      "TargetId": "867fb912-aeee-490b-9bf2-da0e893c077f",
+      "SourceIndex": 1,
+      "TargetIndex": -1
+    },
+    {
+      "Id": "22b42ea6-736d-45ea-a966-213e65d0183a",
+      "RelationType": "Embed",
+      "MetamodelId": "da81aad6-afef-418a-a237-e4fcc466db74",
+      "Metamodel": "ソフトウェア要件定義の所有",
+      "SourceId": "867fb912-aeee-490b-9bf2-da0e893c077f",
+      "TargetId": "26272dc0-ab09-4544-800e-4b318139f60e",
+      "TargetIndex": -1
+    },
+    {
+      "Id": "22bd9c5b-248a-460d-87d5-d2aa718e0f45",
+      "RelationType": "Embed",
+      "MetamodelId": "da81aad6-afef-418a-a237-e4fcc466db74",
+      "Metamodel": "ソフトウェア要件定義の所有",
+      "SourceId": "867fb912-aeee-490b-9bf2-da0e893c077f",
+      "TargetId": "d24db054-a535-45c5-8092-b33347d31224",
+      "SourceIndex": 2,
+      "TargetIndex": -1
+    },
+    {
+      "Id": "237bb52f-d2ce-4bc0-bf14-20721993dfdd",
+      "RelationType": "Embed",
+      "MetamodelId": "2362584d-ee8e-46df-b219-6fba9926cb43",
+      "Metamodel": "ソフトウェア要件定義の所有",
+      "SourceId": "fc0140bf-7a0d-49de-bc6b-bb7f88dac7bc",
+      "TargetId": "6436da3d-3999-4f6b-b5b9-2a850fb63622",
+      "TargetIndex": -1
+    },
+    {
+      "Id": "26112509-402e-48ba-95ad-e8884bb8d2ac",
+      "RelationType": "Embed",
+      "MetamodelId": "da81aad6-afef-418a-a237-e4fcc466db74",
+      "Metamodel": "ソフトウェア要件定義の所有",
+      "SourceId": "6436da3d-3999-4f6b-b5b9-2a850fb63622",
+      "TargetId": "9b05ffe3-2058-4a9e-a5f6-ca42b1754e26",
+      "TargetIndex": -1
+    },
+    {
+      "Id": "42806c50-3c7b-4101-b56c-a4d1159c1450",
+      "RelationType": "Embed",
+      "MetamodelId": "da81aad6-afef-418a-a237-e4fcc466db74",
+      "Metamodel": "ソフトウェア要件定義の所有",
+      "SourceId": "867fb912-aeee-490b-9bf2-da0e893c077f",
+      "TargetId": "1331d4eb-8978-4665-b240-e7f0653b600e",
+      "SourceIndex": 1,
+      "TargetIndex": -1
+    }
+  ]
+}
