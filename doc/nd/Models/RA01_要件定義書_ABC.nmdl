@@ -63,6 +63,7 @@
       "Fields": {
         "Name": "機能要件",
         "TBD": false,
+        "Description": "thie is abc",
         "マイルストーン": "PoC",
         "カテゴリ": "正常系"
       }
